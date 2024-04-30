@@ -1,6 +1,6 @@
 # Nexstar Time Zones
 
-![nexstar-time-zones](https://github.com/heliogoodbye/Nexstar-Time-Zones/assets/105381685/8fa4df94-48a2-4cb1-8271-b6222f8308f5)
+![nexstar-time-zones](https://github.com/heliogoodbye/Nexstar-Time-Zones/assets/105381685/10daf98f-7a60-41c4-bf2e-6c467b1c0ecc)
 
 The "Nexstar Time Zones" plugin for WordPress provides a simple and convenient way to display the current time in various timezones directly on your website. With this plugin, you can easily showcase the time differences across different regions, making it useful for newsrooms, event scheduling, or any other scenario where displaying multiple timezones is necessary.
 
