@@ -17,7 +17,7 @@ add_action('wp_enqueue_scripts', 'nexstar_time_zones_enqueue_styles');
 
 // Function to enqueue the CSS stylesheet
 function nexstar_time_zones_enqueue_styles() {
-    wp_enqueue_style('nexstar-timezones-style', plugins_url('nexstar-timezones.css', __FILE__));
+    wp_enqueue_style('nexstar-timezones-style', plugins_url('nexstar-time-zones.css', __FILE__));
 }
 
 // Function to display clocks
