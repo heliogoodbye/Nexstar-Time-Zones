@@ -1,0 +1,30 @@
+.nexstar-timezones {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr); /* Equal width columns */
+    grid-gap: 20px; /* Gap between columns */
+}
+
+.clock {
+    padding: 10px;
+    background-color: #f0f0f0; /* Background color */
+    border-radius: 5px;
+    text-align: center;
+}
+
+.timezone-clock {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* Responsive Styles */
+@media screen and (max-width: 768px) {
+    .nexstar-timezones {
+        grid-template-columns: repeat(2, 1fr); /* Two columns on smaller screens */
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .nexstar-timezones {
+        grid-template-columns: 1fr; /* Single column on smaller screens */
+    }
+}
